@@ -1,3 +1,8 @@
+'''
+@author: Puji Ermanto<puji.ermanto@gmail.com>
+@reference: openweathermap
+@return data
+'''
 import os
 import requests
 from flask import Flask, render_template, request
